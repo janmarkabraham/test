@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Changes for branch 1" );
+        Test.printMessage( "Classes.." );
     }
 }
